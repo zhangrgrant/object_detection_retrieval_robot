@@ -12,9 +12,9 @@
 ### python_object_detection/
 - Contains Python files for object detection, navigation, and decision making
 
-- vision-test-2.py - tests object detection and camera centering on objects
+- vision-test-3.py - tests object detection and camera centering on objects
 
-- retrieve-object-5.py – Uses object detection to approach and retrieve an object through communication with the Arduino
+- retrieve-object-6.py – Uses object detection to approach and retrieve an object through communication with the Arduino
 
 ### Hardware
 
